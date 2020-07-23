@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204066920707",
+    "firebase_url": "https://enterprisesecurity-one.firebaseio.com",
+    "project_id": "enterprisesecurity-one",
+    "storage_bucket": "enterprisesecurity-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204066920707:android:045a32cdc3299fdc1cf136",
+        "android_client_info": {
+          "package_name": "com.example.cho6.enterprisesecurity_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204066920707-qitglihuoskk9rieab3km9g2af22ue5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7ohKHDoz0mZ8l4Wq5Zso26Z_X3QYTPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204066920707-qitglihuoskk9rieab3km9g2af22ue5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
